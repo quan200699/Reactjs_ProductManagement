@@ -1,1 +1,1 @@
-prompt('Day la tinh nang register')
+console.log("Đây là tính năng register")
